@@ -1,0 +1,18 @@
+{
+    "folders": [
+		{
+			"name": "Self_Designed_Game_4",
+			"path": "/"
+		}
+	],
+    "settings": {
+        "files.hotExit": "off",
+        "vsliveshare.join.reload.workspaceId": "26F9E46D37BDA34E0309A2DEE8F62989A41B",
+        "vsliveshare.join.reload.workspaceFolder": "C:\\Users\\Keerthi\\AppData\\Local\\Temp\\vsliveshare\\tmp-26F9E46D37BDA34E0309A2DEE8F62989A41B",
+        "vsliveshare.join.correlationId": "",
+        "extensions.ignoreRecommendations": true,
+        "typescript.tsc.autoDetect": "off",
+        "debug.allowBreakpointsEverywhere": true,
+        "html.autoClosingTags": false
+    }
+}
